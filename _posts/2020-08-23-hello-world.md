@@ -5,3 +5,5 @@ date: 2020-08-23
 ---
 
 Finally got around to making my first post. Welcome to my blog!
+
+![skincarestuff](/assets/skincarestuff.jpg)
