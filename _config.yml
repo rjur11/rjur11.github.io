@@ -1,2 +1,4 @@
 name: Reenee Reviews, Asian Skincare Reviewer
 markdown: kramdown
+
+theme: jekyll-theme-slate
